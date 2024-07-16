@@ -25,29 +25,29 @@ Utilizando a IDE Visual Studio Code para fazer os códigos com HTML, Javascript 
 IA Generativa - ChatGPT
 
 # 🧐 Processo de Criação
-## Descrição do Jogo Interativo de Perguntas e Respostas Bíblicas.
-Objetivo
+## _*Descrição do Jogo Interativo de Perguntas e Respostas Bíblicas.*_
+1. Objetivo
 Criar um jogo interativo com perguntas e respostas baseado em passagens bíblicas, utilizando HTML, CSS e JavaScript. O jogo visa fornecer uma experiência educacional e divertida para os usuários.
 
-Passagens Utilizadas
+2. Passagens Utilizadas
 Livro de Juízes 2:7-23
 Salmo 86:5
-Funcionalidades
+3. Funcionalidades
 Interface Gráfica: Design simples e intuitivo, com uso de HTML e CSS para estrutura e estilo.
 Interação com o Usuário: Perguntas apresentadas sequencialmente, com opções de resposta para o usuário selecionar.
 Feedback Imediato: Indicação de respostas corretas ou incorretas após cada seleção.
 Pontuação: Sistema de pontuação para contabilizar acertos.
-Tecnologias Utilizadas
+4. Tecnologias Utilizadas
 HTML: Estruturação das páginas e elementos do jogo.
 CSS: Estilização dos componentes visuais.
 JavaScript: Lógica de funcionamento do jogo, manipulação do DOM e interação do usuário.
-Processo de Desenvolvimento
+5. Processo de Desenvolvimento
 Planejamento: Definição das perguntas e estrutura geral do jogo.
 Desenvolvimento Inicial: Criação do esqueleto do HTML e estilo básico com CSS.
 Implementação da Lógica: Desenvolvimento da lógica do jogo em JavaScript, incluindo a funcionalidade de exibir perguntas, verificar respostas e calcular a pontuação.
 Testes e Correções: Testes para identificar bugs e ajustar funcionalidades.
 Aperfeiçoamento: Refinamento do código e da interface com feedback e sugestões para melhorar a experiência do usuário.
-Contribuição do ChatGPT
+6. Contribuição do ChatGPT
 Correção de bugs no código.
 Sugestões para aperfeiçoamento da lógica e da interface do jogo.
 Orientações sobre melhores práticas de programação.
@@ -60,5 +60,8 @@ Orientações sobre melhores práticas de programação.
 
 ## Link
 https://github.com/BelisnalvaCosta/jogos_interativos.git
+
+>"A vitória vem, para quem sempre luta e não desiste facilmente!!"
+<!-- Minhas palavras --> 
 
 [^1]: Exemplo de um protótipo que elaborei com apoio da IA generativa. Está em fase de desedesenvolvimento.para melhor interação com o usuário final. 
