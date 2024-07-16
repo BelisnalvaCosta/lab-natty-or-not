@@ -15,7 +15,7 @@ Olá pessoal, Sou a Bella! Inspirada na hype _"Natty or Not"_ do fisiculturismo,
 3.  Visite: [Belisnalva](https://www.linkedin.com/in/belisnalva-costa-pereira).
 
 ## 📒 Descrição
-Utilizando a IDE Visual Studio Code para fazer os códigos com HTML, Javascript e CSS, para obter a interface gráfica e a IA generativa para corrigir os bugs e aperfeiçoar o estilo do projeto jogos_interativos.
+Utilizei a IDE Visual Studio Code para fazer os códigos do Projeto abaixo relacionado:
 
 ## 🤖 Tecnologias Utilizadas
 ## Front-end
@@ -26,28 +26,28 @@ IA Generativa - ChatGPT
 
 # 🧐 Processo de Criação
 ## _*Descrição do Jogo Interativo de Perguntas e Respostas Bíblicas.*_
-1. Objetivo
+1. Objetivo: 
 Criar um jogo interativo com perguntas e respostas baseado em passagens bíblicas, utilizando HTML, CSS e JavaScript. O jogo visa fornecer uma experiência educacional e divertida para os usuários.
 
-2. Passagens Utilizadas
+2. Passagens Utilizadas: 
 Livro de Juízes 2:7-23
 Salmo 86:5
-3. Funcionalidades
+3. Funcionalidades: 
 Interface Gráfica: Design simples e intuitivo, com uso de HTML e CSS para estrutura e estilo.
 Interação com o Usuário: Perguntas apresentadas sequencialmente, com opções de resposta para o usuário selecionar.
 Feedback Imediato: Indicação de respostas corretas ou incorretas após cada seleção.
 Pontuação: Sistema de pontuação para contabilizar acertos.
-4. Tecnologias Utilizadas
+4. Tecnologias Utilizadas: 
 HTML: Estruturação das páginas e elementos do jogo.
 CSS: Estilização dos componentes visuais.
 JavaScript: Lógica de funcionamento do jogo, manipulação do DOM e interação do usuário.
-5. Processo de Desenvolvimento
+5. Processo de Desenvolvimento: 
 Planejamento: Definição das perguntas e estrutura geral do jogo.
 Desenvolvimento Inicial: Criação do esqueleto do HTML e estilo básico com CSS.
 Implementação da Lógica: Desenvolvimento da lógica do jogo em JavaScript, incluindo a funcionalidade de exibir perguntas, verificar respostas e calcular a pontuação.
 Testes e Correções: Testes para identificar bugs e ajustar funcionalidades.
 Aperfeiçoamento: Refinamento do código e da interface com feedback e sugestões para melhorar a experiência do usuário.
-6. Contribuição do ChatGPT
+6. Contribuição do ChatGPT: 
 Correção de bugs no código.
 Sugestões para aperfeiçoamento da lógica e da interface do jogo.
 Orientações sobre melhores práticas de programação.
