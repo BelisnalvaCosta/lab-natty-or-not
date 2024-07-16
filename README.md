@@ -12,8 +12,7 @@ Olá pessoal, Sou a Bella! Inspirada na hype _"Natty or Not"_ do fisiculturismo,
 
 1. **Explorar IAs Generativas.
 2.  **#LabDIONattyOrNot**.
-3.  Visite: [Belisnalva](www.linkedin.com/in/belisnalva-costa-pereira)
-).
+3.  Visite: [Belisnalva](https://www.linkedin.com/in/belisnalva-costa-pereira).
 
 ## 📒 Descrição
 Utilizando a IDE Visual Studio Code para fazer os códigos com HTML, Javascript e CSS, para obter a interface gráfica e a IA generativa para corrigir os bugs e aperfeiçoar o estilo do projeto jogos_interativos.
